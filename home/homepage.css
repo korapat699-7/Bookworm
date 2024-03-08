@@ -64,6 +64,7 @@ nav .navbar {
     align-items: center;
 }
 .nav-links li {
+    white-space: nowrap;
     margin: 0 10px;
 }
 .nav-links a {
@@ -86,15 +87,17 @@ nav .navbar {
 }
 
 .search{
+    position: relative;
     --padding: 1px;
     margin-left: 500px;
     display: flex;
     align-items: center;
+
     padding: var(--padding);
     border-radius: 6px;
     background: #f6f6f6;
     height: 30px;
-    width: 215px;
+    width: 212px ;
     transition: background 0.25s;
 }
 .search-input{
@@ -105,10 +108,16 @@ nav .navbar {
     outline: none;
     border: none;
     background: transparent;
+    left: 0;
 
 }
 .search-input::placeholder,
 .search-icon{
     color: #7d7d7d;
+}
+
+
+.iframe1 {
+    display: flex;
 }
 

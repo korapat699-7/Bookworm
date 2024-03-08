@@ -1,0 +1,40 @@
+.content {
+    display: grid;
+    position: relative;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    max-width: 1250px;
+    grid-template-rows: 120px 120px 120px 125px  ;
+    grid-template-columns: 125px 125px 125px 20px 125px 125px 125px 125px 125px 125px 110px  ;
+    border-radius: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+.rankbook {
+    grid-area: 1 / 5 / 5 / 12;
+    background-color: rgb(50, 169, 199);
+    display: grid;
+    grid-template-columns: 125px 125px 125px 125px 125px 125px 110px ;
+    grid-template-rows: 45px 180px 125px 135px;
+}
+
+.ranked_header {
+    grid-area: 1 / 1 / 1/ 12;
+    background-color: white;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
