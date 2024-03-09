@@ -1,0 +1,121 @@
+#login_dropdown {
+    color: #BA90C6;
+    margin-left: -350px;
+    margin-top: 20px;
+    display: none;
+    position: absolute;
+    background: white;
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    align-items: center;
+    border-radius: 6px;
+    height: 526px;
+    width: 415px;
+    animation-name: opaci;
+    animation-duration: 100ms;
+}
+
+
+.login_header {
+    display: flex;
+    flex-direction: column;
+    padding-left: 23px;
+}
+
+
+.login_icon {
+    color: rgba(186, 144, 198, 1);
+    color: linear-gradient(180deg, rgba(186, 144, 198, 1) 50%, rgb(38, 23, 30) 50%);
+    font-size: 32px;
+    font-weight: bolder;
+    padding-top: 10px;
+}
+
+.login_message {
+    margin-top: -17px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#login_dropdown form {
+    padding: 15px;
+}
+
+#login_dropdown input[type="text"],
+#login_dropdown input[type="password"],
+#login_dropdown button {
+    font-size: 15px;
+    border-radius: 6px;
+    border: none;
+    margin: auto;
+    display: block;
+    padding: 10px;
+
+}
+
+#login_dropdown input[type="text"],
+#login_dropdown input[type="password"] {
+    border: 2px solid #f1f1f1;
+    width: 349px;
+    margin-bottom: 23px;
+}
+
+#login_dropdown button[type='submit'] {
+    margin-top: 30px;
+    width: 369px;
+    background-color: rgb(186, 144, 198);
+    color: white;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.forgot-password {
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+.forgot-password a {
+    margin-right: 8px;
+}
+
+.forgot-password a {
+    color: #BA90C6;
+    font-size: 15px;
+}
+
+
+#sign-up {
+    font-weight: bolder;
+}
+
+#login {
+    margin-left: 10px;
+    color: #f1f1f1;
+    padding: 6px;
+    border-radius: 6px;
+    align-items: end;
+    font-weight: bolder;
+}
+
+#login:hover {
+    background-color: #9b6fa8;
+}
+
+@keyframes opaci {
+    0% {
+        opacity: 0%;
+    }
+
+    50% {
+        opacity: 70%;
+    }
+
+    100% {
+        opacity: 100%;
+    }
+}
