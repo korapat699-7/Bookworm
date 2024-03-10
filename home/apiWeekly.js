@@ -5,6 +5,8 @@ const author = document.querySelector(".weeklybook_author");
 const img1 = document.querySelector(".img1");
 const img2 = document.querySelector(".img2");
 const img3 = document.querySelector(".img3");
+img2.style.opacity = "30%";
+img3.style.opacity = "30%";
 
 fetch(
   "https://api.nytimes.com/svc/books/v3/lists/graphic-books-and-manga.json?&api-key=JkHYnj3BOcp7aUQ4XR5QhL7Y19Xg9Bxu"
