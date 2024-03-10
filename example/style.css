@@ -1,0 +1,23 @@
+.container {
+    max-width: 500px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+#searchInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#searchResults {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#searchResults li {
+    padding: 10px;
+    background-color: #f4f4f4;
+    margin-bottom: 5px;
+}
