@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Comedy | Category</title>
-    <link rel="stylesheet" href="comedypage.css">
-   <link rel="stylesheet" href="comedylogin.css">
+    <link rel="stylesheet" href="catenav.css">
+    <link rel="stylesheet" href="catemain.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 </head>
 <body>
@@ -68,31 +68,23 @@
     </nav>
 
     <div class="book">
-        <img src="rin.jpg" alt="cover1">
-        <div class="book-detail">
-            <div class="book-title">BLUE LOCK</div>
-            <div class="book-author">Author:</div>
-            <div class="book-synopsis">Synopsis:</div>
-            <a href="https://example.com/book1" class="book-link" target="_blank">Buy Now</a>
+        <div class="book-cover">
+            <img src="rin.jpg" alt="Book Cover">
         </div>
+        <div class="book-info">
+            <h2>Title: </h2>
+            <p>Author: </p>
+            <p>Description: </p>
+            <button class="buy-button" onclick="window.location.href="#">Buy Now</button>
+            <form action="" class="comment-box">
+                <div class="user">
+                    <div class="image"></div>
+                    <div class="name">Bunny</div>
+                </div>
+                <textarea name="comment"></textarea>
+                <button class="comment-button" onclick="">comment</button>
 
-    </div>
-    <div class="book">
-        <img src="Vol_ 1.jpg" alt="Book Cover">
-        <div class="book-details">
-            <div class="book-title">Jujutsu Kaisen</div>
-            <div class="book-author">Author:</div>
-            <div class="book-synopsis">Synopsis:</div>
-            <a href="https://example.com/book2" class="book-link" target="_blank">Buy Now</a>
-        </div>
-    </div>
-    <div class="book">
-        <img src="AAAAAAAAA.jpg" alt="Book Cover">
-        <div class="book-details">
-            <div class="book-title">Haikyu!</div>
-            <div class="book-author">Author:</div>
-            <div class="book-synopsis">Synopsis:</div>
-            <a href="https://example.com/book2" class="book-link" target="_blank">Buy Now</a>
+            </form>
         </div>
     </div>
 
