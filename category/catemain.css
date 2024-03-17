@@ -6,16 +6,21 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
-    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .book {
+    position: relative; /* Make the book container a positioning context */
     display: flex;
     margin: 20px;
-    padding: 10px;
-    background-color: #fff;
+    padding: 20px;
+    background-color:#AD88C6;
+    width: auto;
+    height: auto;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    border: 4px solid white;
+    
 }
 
 .book-cover img {
@@ -28,44 +33,62 @@ body {
 }
 
 .book-info h2 {
-    margin-top: 0;
-    color: #333;
+    margin-top: 0px;
+    color: black;
 }
 
 .book-info p {
     margin-bottom: 10px;
-    color: #666;
+    color: black;
 }
 
 .buy-button {
+    position: absolute; /* Position the buy button */
+    top: 10px; /* Adjust top distance as needed */
+    right: 10px; /* Adjust right distance as needed */
     padding: 8px 16px;
-    background-color: #748DA6;
+    background-color: plum;
     color: #fff;
-    border: none;
-    border-radius: 5px;
+    border: 3.5px solid white;
+    border-radius: 35px;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
+.buy-button img {
+    width: 30px; /* ปรับขนาดของไอคอนตามต้องการ */
+    height: 30px;
+
+  }
+  
+.buy-button i {
+    font-size: 20px; /* ขนาดของไอคอน */
+    margin-right: 5px; /* ระยะห่างระหว่างไอคอนกับข้อความ */
+
+  }
+
 .buy-button:hover {
-    background-color: #D3CEDF;
+    background-color: #FFE6E6;
 }
 
 .comment-box {
     margin-top: 30px;
 }
+
 .comment-button {
+
     padding: 8px 16px;
-    background-color: #748DA6;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
+    background-color: plum;
+    color: black;
+    border: 3px solid white;
+    border-radius: 45px;
+    font-weight: bold;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 .comment-button:hover {
-    background-color: #D3CEDF;
+    background-color: #FFE6E6;
 }
 
 .user {
@@ -78,6 +101,7 @@ body {
     width: 40px;
     height: 40px;
     background-color: powderblue;
+    border: 3px solid white;
     border-radius: 50%;
     margin-right: 10px;
 }
@@ -87,9 +111,11 @@ body {
 }
 
 textarea {
-    width: 100%;
+    width: 150%;
     padding: 8px;
-    border-radius: 5px;
-    border: 1px solid #ccc;
+    border-radius: 40px;
+    border-color: plum;
+    border: 2px solid plum;
     resize: vertical;
+    font-size: 16px;
 }
