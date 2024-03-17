@@ -1,6 +1,6 @@
 #login_dropdown {
     color: #BA90C6;
-    margin-left: -350px;
+    margin-left: -250px;
     margin-top: 20px;
     display: none;
     position: absolute;
@@ -14,6 +14,7 @@
     width: 415px;
     animation-direction: none;
     animation: loginClick 500ms ease-in-out 0s;
+
 
 }
 
@@ -75,6 +76,41 @@
     font-weight: bolder;
 }
 
+
+#login_dropdown button[type='submit']:hover {
+    background-color: #F2D7D9;
+    color: #30475e;
+    animation: login_submit_ani 100ms ease 0s 1 normal forwards;
+
+}
+
+@keyframes login_submit_ani {
+    0% {
+		transform: translate(0);
+	}
+
+	20% {
+		transform: translate(2px, -2px);
+	}
+
+	40% {
+		transform: translate(2px, 2px);
+	}
+
+	60% {
+		transform: translate(-2px, 2px);
+	}
+
+	80% {
+		transform: translate(-2px, -2px);
+	}
+
+	100% {
+		transform: translate(0);
+	}
+}
+
+
 .forgot-password {
     display: flex;
     flex-direction: row-reverse;
@@ -93,7 +129,7 @@
 
 #login {
     background-color: #30475e;
-    margin-left: 10px;
+    margin-left: 90px;
     color: #F2D7D9;
     padding: 6px;
     border-radius: 6px;
@@ -114,5 +150,51 @@
 	100% {
 		transform: scaleY(1);
 		transform-origin: 100% 0%;
+	}
+}
+
+.register-state-login {
+    opacity: 0%;
+    width: 412px;
+    height: 68px;
+    display: flex;
+    position: absolute;
+    background: #ffffff;
+    border: 2px solid rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    bottom: 0;
+    animation: register-state-login-anim 400ms ease 1s 1 normal forwards;
+    flex-direction: column;
+}
+
+.text-no-account {
+    font-weight: 400;
+    color: #30475e;
+    align-items: center;
+    margin-top: -40px;
+}
+
+.register-link {
+    color: #30475e;
+    margin-top: -20px;
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
+
+
+@keyframes register-state-login-anim {
+	0% {
+		transform: scaleY(0);
+		transform-origin: 0% 100%;
+        opacity: 0%;
+	}
+
+	100% {
+		transform: scaleY(1);
+		transform-origin: 0% 100%;
+        opacity: 100%;
 	}
 }

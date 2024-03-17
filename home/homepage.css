@@ -104,10 +104,10 @@ nav .navbar {
     margin-top: auto;
     margin-bottom: auto;
     padding: var(--padding);
-    border-radius: 6px;
+    border-radius: 10px;
     background: #f6f6f6;
     height: 32px;
-    width: 210px ;
+    width: 300px ;
     transition: background 0.25s;
     margin-top: -20px;
 }

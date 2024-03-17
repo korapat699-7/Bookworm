@@ -1,0 +1,256 @@
+
+.rankbook {
+    grid-area: 1 / 5 / 5 / 12;
+    background-color: white;
+    display: grid;
+    grid-template-columns: 65px 100px 56px 100px 56px 100px 56px 100px 56px 100px 65px;
+    grid-template-rows: 45px 29px 144px 36px 25px 144px 36px 26px;
+}
+
+.ranked_header {
+    grid-area: 1 / 1 / 1/ 12;
+    background: #FDF4F5;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.ranking {
+    grid-area: 3 /2 /4 /3;
+    background-color: rgb(101, 98, 104);
+}
+.ranking2 {
+    grid-area: 3 /4 /4 /5;
+    background-color: rgb(81, 30, 131);
+}
+.ranking3 {
+    grid-area: 3/6 /4/7 ;
+    background-color: blueviolet;
+}
+.ranking4 {
+    grid-area: 3/8 /4/9 ;
+    background-color: blueviolet;
+}
+.ranking5 {
+    grid-area: 3/10 /4 /11;
+    background-color: blueviolet;
+}
+.ranking6 {
+    grid-area: 6/2 /7 /3;
+    background-color: blueviolet;
+}
+.ranking7 {
+    grid-area: 6/4 /7 /5;
+    background-color: blueviolet;
+}
+.ranking8 {
+    grid-area: 6/6 /7 /7;
+    background-color: blueviolet;
+}
+.ranking9 {
+    grid-area: 6/8 /7 /9;
+    background-color: blueviolet;
+}
+.ranking10 {
+    grid-area: 6/10 /7 /11;
+    background-color: blueviolet;
+}
+.text-rank1 {
+    grid-area: 4 /2 /5 /3;
+    background-color: white;
+}
+.text-rank2 {
+    grid-area: 4 /4 /5 /5;
+    background-color: white;
+}
+.text-rank3 {
+    grid-area: 4/6 /4/7 ;
+    background-color: white;
+}
+
+.text-rank4 {
+    grid-area: 4/8 /4/9 ;
+    background-color: white;
+
+}
+.text-rank5 {
+    grid-area: 4/10 /4 /11;
+    background-color: white;
+}
+.text-rank6 {
+    grid-area: 7/2 /8 /3;
+    background-color: white;
+}
+.text-rank7 {
+    grid-area: 7/4 /8 /5;
+    background-color: white;
+}
+.text-rank8 {
+    grid-area: 7/6 /8 /7;
+    background-color: white;
+}
+.text-rank9 {
+    grid-area: 7/8 /8 /9;
+    background-color: white;
+}
+.text-rank10 {
+    grid-area: 7/10 /8 /11;
+    background-color: white;
+}
+
+
+.name-rank1 {
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 2%;
+}
+
+.cate-rank1 {
+    margin-top: -15%;
+    font-weight: 400;
+    color: rgb(92, 92, 92);
+    display: block;
+    text-align: center;
+}
+
+.name-rank2 {
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 2%;
+}
+
+.cate-rank2 {
+    margin-top: -15%;
+    font-weight: 400;
+    color: rgb(92, 92, 92);
+    display: block;
+    text-align: center;
+}
+
+.name-rank3 {
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 2%;
+}
+
+.cate-rank3 {
+    margin-top: -15%;
+    font-weight: 400;
+    color: rgb(92, 92, 92);
+    display: block;
+    text-align: center;
+}
+
+.name-rank4 {
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 2%;
+}
+
+.cate-rank4 {
+    margin-top: -15%;
+    font-weight: 400;
+    color: rgb(92, 92, 92);
+    display: block;
+    text-align: center;
+}
+
+
+.name-rank5 {
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 2%;
+}
+
+.cate-rank5 {
+    margin-top: -15%;
+    font-weight: 400;
+    color: rgb(92, 92, 92);
+    display: block;
+    text-align: center;
+}
+
+.name-rank6 {
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 2%;
+}
+
+.cate-rank6 {
+    margin-top: -15%;
+    font-weight: 400;
+    color: rgb(92, 92, 92);
+    display: block;
+    text-align: center;
+}
+
+.name-rank7 {
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 2%;
+}
+
+.cate-rank7{
+    margin-top: -15%;
+    font-weight: 400;
+    color: rgb(92, 92, 92);
+    display: block;
+    text-align: center;
+}
+
+.name-rank8 {
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 2%;
+}
+
+.cate-rank8 {
+    margin-top: -15%;
+    font-weight: 400;
+    color: rgb(92, 92, 92);
+    display: block;
+    text-align: center;
+}
+
+.name-rank9 {
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 2%;
+}
+
+.cate-rank9 {
+    margin-top: -15%;
+    font-weight: 400;
+    color: rgb(92, 92, 92);
+    display: block;
+    text-align: center;
+}
+
+.name-rank10 {
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 2%;
+}
+
+.cate-rank10 {
+    margin-top: -15%;
+    font-weight: 400;
+    color: rgb(92, 92, 92);
+    display: block;
+    text-align: center;
+}
+
+
+
+
+
