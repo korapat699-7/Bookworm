@@ -1,0 +1,335 @@
+.random1 {
+  display: grid;
+  grid-area: 2 / 2 / 3 /3;
+  background-color: aquamarine;
+}
+
+.random2 {
+  display: grid;
+  grid-area: 2 / 4 / 3 /5;
+  background-color: aquamarine;
+}
+.random3 {
+  display: grid;
+  grid-area: 2 / 6 / 3 /7;
+  background-color: aquamarine;
+}
+.random4 {
+  display: grid;
+  grid-area: 2 / 8 / 3 /9;
+  background-color: aquamarine;
+}
+.random5 {
+  display: grid;
+  grid-area: 2 / 10 / 3 /11;
+  background-color: aquamarine;
+}
+.random6 {
+  display: grid;
+  grid-area: 2 / 12 / 3 /13;
+  background-color: aquamarine;
+}
+
+.name-random1 {
+  font-weight: bold;
+  grid-area: 3 / 2 / 4 /3;
+  text-align: center;
+}
+
+.name-random2 {
+  font-weight: bold;
+  grid-area: 3 / 4 / 4 /5;
+  text-align: center;
+}
+
+.name-random3 {
+  font-weight: bold;
+  grid-area: 3 / 6 / 4 /7;
+  text-align: center;
+}
+
+.name-random4 {
+  font-weight: bold;
+  grid-area: 3 / 8 / 4 /9;
+  text-align: center;
+}
+
+.name-random5 {
+  font-weight: bold;
+  grid-area: 3 / 10 / 4 /11;
+  text-align: center;
+}
+
+.name-random6 {
+  font-weight: bold;
+  grid-area: 3 / 12 / 4 /13;
+  text-align: center;
+}
+
+.cate-random1 {
+  font-weight: 400;
+  grid-area: 4 / 2 / 5 /3;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random2 {
+  font-weight: 400;
+  grid-area: 4 / 4 / 5 /5;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random3 {
+  font-weight: 400;
+  font-weight: 400;
+  grid-area: 4 / 6 / 5 /7;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random4 {
+  font-weight: 400;
+  grid-area: 4 / 8 / 5 /9;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random5 {
+  font-weight: 400;
+  grid-area: 4 / 10 / 5 /11;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random6 {
+  font-weight: 400;
+  grid-area: 4 / 12 / 5 /13;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+
+
+
+.random7 {
+  display: grid;
+  grid-area: 2 / 2 / 3 /3;
+  background-color: aquamarine;
+}
+
+.random8 {
+  display: grid;
+  grid-area: 2 / 4 / 3 /5;
+  background-color: aquamarine;
+}
+.random9 {
+  display: grid;
+  grid-area: 2 / 6 / 3 /7;
+  background-color: aquamarine;
+}
+.random10 {
+  display: grid;
+  grid-area: 2 / 8 / 3 /9;
+  background-color: aquamarine;
+}
+.random11 {
+  display: grid;
+  grid-area: 2 / 10 / 3 /11;
+  background-color: aquamarine;
+}
+.random12 {
+  display: grid;
+  grid-area: 2 / 12 / 3 /13;
+  background-color: aquamarine;
+}
+
+.name-random7 {
+  font-weight: bold;
+  grid-area: 3 / 2 / 4 /3;
+  text-align: center;
+}
+
+.name-random8 {
+  font-weight: bold;
+  grid-area: 3 / 4 / 4 /5;
+  text-align: center;
+}
+
+.name-random9 {
+  font-weight: bold;
+  grid-area: 3 / 6 / 4 /7;
+  text-align: center;
+}
+
+.name-random10 {
+  font-weight: bold;
+  grid-area: 3 / 8 / 4 /9;
+  text-align: center;
+}
+
+.name-random11 {
+  font-weight: bold;
+  grid-area: 3 / 10 / 4 /11;
+  text-align: center;
+}
+
+.name-random12 {
+  font-weight: bold;
+  grid-area: 3 / 12 / 4 /13;
+  text-align: center;
+}
+
+.cate-random7 {
+  font-weight: 400;
+  grid-area: 4 / 2 / 5 /3;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random8 {
+  font-weight: 400;
+  grid-area: 4 / 4 / 5 /5;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random9 {
+  font-weight: 400;
+  font-weight: 400;
+  grid-area: 4 / 6 / 5 /7;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random10 {
+  font-weight: 400;
+  grid-area: 4 / 8 / 5 /9;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random11 {
+  font-weight: 400;
+  grid-area: 4 / 10 / 5 /11;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random12 {
+  font-weight: 400;
+  grid-area: 4 / 12 / 5 /13;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.random13 {
+  display: grid;
+  grid-area: 2 / 2 / 3 /3;
+  background-color: aquamarine;
+}
+
+.random14 {
+  display: grid;
+  grid-area: 2 / 4 / 3 /5;
+  background-color: aquamarine;
+}
+.random15 {
+  display: grid;
+  grid-area: 2 / 6 / 3 /7;
+  background-color: aquamarine;
+}
+.random16 {
+  display: grid;
+  grid-area: 2 / 8 / 3 /9;
+  background-color: aquamarine;
+}
+.random17 {
+  display: grid;
+  grid-area: 2 / 10 / 3 /11;
+  background-color: aquamarine;
+}
+.random18 {
+  display: grid;
+  grid-area: 2 / 12 / 3 /13;
+  background-color: aquamarine;
+}
+
+.name-random13 {
+  font-weight: bold;
+  grid-area: 3 / 2 / 4 /3;
+  text-align: center;
+}
+
+.name-random14 {
+  font-weight: bold;
+  grid-area: 3 / 4 / 4 /5;
+  text-align: center;
+}
+
+.name-random15 {
+  font-weight: bold;
+  grid-area: 3 / 6 / 4 /7;
+  text-align: center;
+}
+
+.name-random16 {
+  font-weight: bold;
+  grid-area: 3 / 8 / 4 /9;
+  text-align: center;
+}
+
+.name-random17 {
+  font-weight: bold;
+  grid-area: 3 / 10 / 4 /11;
+  text-align: center;
+}
+
+.name-random18 {
+  font-weight: bold;
+  grid-area: 3 / 12 / 4 /13;
+  text-align: center;
+}
+
+.cate-random13 {
+  font-weight: 400;
+  grid-area: 4 / 2 / 5 /3;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random14 {
+  font-weight: 400;
+  grid-area: 4 / 4 / 5 /5;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random15 {
+  font-weight: 400;
+  font-weight: 400;
+  grid-area: 4 / 6 / 5 /7;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random16 {
+  font-weight: 400;
+  grid-area: 4 / 8 / 5 /9;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random17 {
+  font-weight: 400;
+  grid-area: 4 / 10 / 5 /11;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random18 {
+  font-weight: 400;
+  grid-area: 4 / 12 / 5 /13;
+  text-align: center;
+  color: rgb(92, 92, 92);
+}

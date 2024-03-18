@@ -12,7 +12,47 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.content2 {
+    display:grid;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    max-width: 1249px;
+    max-height: 323px;
+    grid-template-rows: 39px 180px 31px 31px 42px;
+    grid-template-columns: 43px 125px 83px 125px 83px 125px 83px 125px 83px 125px 83px 125px 43px ;
+    background-color: rgb(255, 255, 255);
+    
+}
 
+.content3 {
+    display:grid;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    max-width: 1249px;
+    max-height: 323px;
+    grid-template-rows: 39px 180px 31px 31px 42px;
+    grid-template-columns: 43px 125px 83px 125px 83px 125px 83px 125px 83px 125px 83px 125px 43px ;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.content4 {
+    display:grid;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    max-width: 1249px;
+    max-height: 323px;
+    grid-template-rows: 39px 180px 31px 31px 42px;
+    grid-template-columns: 43px 125px 83px 125px 83px 125px 83px 125px 83px 125px 83px 125px 43px ;
+    background-color: rgb(255, 255, 255);
+    
+}
 
 
 
