@@ -34,36 +34,45 @@
   font-weight: bold;
   grid-area: 3 / 2 / 4 /3;
   text-align: center;
+
 }
 
 .name-random2 {
   font-weight: bold;
   grid-area: 3 / 4 / 4 /5;
   text-align: center;
+ 
 }
 
 .name-random3 {
   font-weight: bold;
   grid-area: 3 / 6 / 4 /7;
   text-align: center;
+
 }
 
 .name-random4 {
   font-weight: bold;
   grid-area: 3 / 8 / 4 /9;
   text-align: center;
+  display: -webkit-box;
+
 }
 
 .name-random5 {
   font-weight: bold;
   grid-area: 3 / 10 / 4 /11;
   text-align: center;
+  display: -webkit-box;
+ 
 }
 
 .name-random6 {
   font-weight: bold;
   grid-area: 3 / 12 / 4 /13;
   text-align: center;
+  display: -webkit-box;
+ 
 }
 
 .cate-random1 {
@@ -223,6 +232,8 @@
   color: rgb(92, 92, 92);
 }
 
+
+
 .random13 {
   display: grid;
   grid-area: 2 / 2 / 3 /3;
@@ -333,3 +344,145 @@
   text-align: center;
   color: rgb(92, 92, 92);
 }
+
+
+
+
+.random19 {
+  display: grid;
+  grid-area: 2 / 2 / 3 /3;
+  background-color: aquamarine;
+}
+
+.random20 {
+  display: grid;
+  grid-area: 2 / 4 / 3 /5;
+  background-color: aquamarine;
+}
+.random21 {
+  display: grid;
+  grid-area: 2 / 6 / 3 /7;
+  background-color: aquamarine;
+}
+.random22 {
+  display: grid;
+  grid-area: 2 / 8 / 3 /9;
+  background-color: aquamarine;
+}
+.random23 {
+  display: grid;
+  grid-area: 2 / 10 / 3 /11;
+  background-color: aquamarine;
+}
+.random24 {
+  display: grid;
+  grid-area: 2 / 12 / 3 /13;
+  background-color: aquamarine;
+}
+
+.name-random19 {
+  font-weight: bold;
+  grid-area: 3 / 2 / 4 /3;
+  text-align: center;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.name-random20 {
+  font-weight: bold;
+  grid-area: 3 / 4 / 4 /5;
+  text-align: center;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.name-random21 {
+  font-weight: bold;
+  grid-area: 3 / 6 / 4 /7;
+  text-align: center;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.name-random22 {
+  font-weight: bold;
+  grid-area: 3 / 8 / 4 /9;
+  text-align: center;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.name-random23 {
+  font-weight: bold;
+  grid-area: 3 / 10 / 4 /11;
+  text-align: center;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.name-random24 {
+  font-weight: bold;
+  grid-area: 3 / 12 / 4 /13;
+  text-align: center;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.cate-random19 {
+  font-weight: 400;
+  grid-area: 4 / 2 / 5 /3;
+  text-align: center;
+  color: rgb(92, 92, 92);
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.cate-random20 {
+  font-weight: 400;
+  grid-area: 4 / 4 / 5 /5;
+  text-align: center;
+  color: rgb(92, 92, 92);
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.cate-random21 {
+  font-weight: 400;
+  grid-area: 4 / 6 / 5 /7;
+  text-align: center;
+  color: rgb(92, 92, 92);
+
+}
+
+.cate-random22 {
+  font-weight: 400;
+  grid-area: 4 / 8 / 5 /9;
+  text-align: center;
+  color: rgb(92, 92, 92);
+
+}
+
+.cate-random23 {
+  font-weight: 400;
+  grid-area: 4 / 10 / 5 /11;
+  text-align: center;
+  color: rgb(92, 92, 92);
+
+}
+
+.cate-random24 {
+  font-weight: 400;
+  grid-area: 4 / 12 / 5 /13;
+  text-align: center;
+  color: rgb(92, 92, 92);
+
+}
+
