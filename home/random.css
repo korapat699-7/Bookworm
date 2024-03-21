@@ -1,488 +1,777 @@
 .random1 {
   display: grid;
   grid-area: 2 / 2 / 3 /3;
-  background-color: aquamarine;
+
 }
 
 .random2 {
   display: grid;
   grid-area: 2 / 4 / 3 /5;
-  background-color: aquamarine;
+ 
 }
 .random3 {
   display: grid;
   grid-area: 2 / 6 / 3 /7;
-  background-color: aquamarine;
+ 
 }
 .random4 {
   display: grid;
   grid-area: 2 / 8 / 3 /9;
-  background-color: aquamarine;
+ 
 }
 .random5 {
   display: grid;
   grid-area: 2 / 10 / 3 /11;
-  background-color: aquamarine;
+
 }
 .random6 {
   display: grid;
   grid-area: 2 / 12 / 3 /13;
-  background-color: aquamarine;
-}
-
-.name-random1 {
-  font-weight: bold;
-  grid-area: 3 / 2 / 4 /3;
-  text-align: center;
-
-}
-
-.name-random2 {
-  font-weight: bold;
-  grid-area: 3 / 4 / 4 /5;
-  text-align: center;
  
 }
-
-.name-random3 {
-  font-weight: bold;
-  grid-area: 3 / 6 / 4 /7;
-  text-align: center;
-
-}
-
-.name-random4 {
-  font-weight: bold;
-  grid-area: 3 / 8 / 4 /9;
-  text-align: center;
-  display: -webkit-box;
-
-}
-
-.name-random5 {
-  font-weight: bold;
-  grid-area: 3 / 10 / 4 /11;
-  text-align: center;
-  display: -webkit-box;
- 
-}
-
-.name-random6 {
-  font-weight: bold;
-  grid-area: 3 / 12 / 4 /13;
-  text-align: center;
-  display: -webkit-box;
- 
-}
-
-.cate-random1 {
-  font-weight: 400;
-  grid-area: 4 / 2 / 5 /3;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random2 {
-  font-weight: 400;
-  grid-area: 4 / 4 / 5 /5;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random3 {
-  font-weight: 400;
-  font-weight: 400;
-  grid-area: 4 / 6 / 5 /7;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random4 {
-  font-weight: 400;
-  grid-area: 4 / 8 / 5 /9;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random5 {
-  font-weight: 400;
-  grid-area: 4 / 10 / 5 /11;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random6 {
-  font-weight: 400;
-  grid-area: 4 / 12 / 5 /13;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-
-
 
 .random7 {
   display: grid;
   grid-area: 2 / 2 / 3 /3;
-  background-color: aquamarine;
+  
 }
 
 .random8 {
   display: grid;
   grid-area: 2 / 4 / 3 /5;
-  background-color: aquamarine;
 }
 .random9 {
   display: grid;
   grid-area: 2 / 6 / 3 /7;
-  background-color: aquamarine;
 }
 .random10 {
   display: grid;
   grid-area: 2 / 8 / 3 /9;
-  background-color: aquamarine;
+
 }
 .random11 {
   display: grid;
   grid-area: 2 / 10 / 3 /11;
-  background-color: aquamarine;
+
 }
 .random12 {
   display: grid;
   grid-area: 2 / 12 / 3 /13;
-  background-color: aquamarine;
+ 
 }
-
-.name-random7 {
-  font-weight: bold;
-  grid-area: 3 / 2 / 4 /3;
-  text-align: center;
-}
-
-.name-random8 {
-  font-weight: bold;
-  grid-area: 3 / 4 / 4 /5;
-  text-align: center;
-}
-
-.name-random9 {
-  font-weight: bold;
-  grid-area: 3 / 6 / 4 /7;
-  text-align: center;
-}
-
-.name-random10 {
-  font-weight: bold;
-  grid-area: 3 / 8 / 4 /9;
-  text-align: center;
-}
-
-.name-random11 {
-  font-weight: bold;
-  grid-area: 3 / 10 / 4 /11;
-  text-align: center;
-}
-
-.name-random12 {
-  font-weight: bold;
-  grid-area: 3 / 12 / 4 /13;
-  text-align: center;
-}
-
-.cate-random7 {
-  font-weight: 400;
-  grid-area: 4 / 2 / 5 /3;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random8 {
-  font-weight: 400;
-  grid-area: 4 / 4 / 5 /5;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random9 {
-  font-weight: 400;
-  font-weight: 400;
-  grid-area: 4 / 6 / 5 /7;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random10 {
-  font-weight: 400;
-  grid-area: 4 / 8 / 5 /9;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random11 {
-  font-weight: 400;
-  grid-area: 4 / 10 / 5 /11;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random12 {
-  font-weight: 400;
-  grid-area: 4 / 12 / 5 /13;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-
 
 .random13 {
   display: grid;
   grid-area: 2 / 2 / 3 /3;
-  background-color: aquamarine;
+
 }
 
 .random14 {
   display: grid;
   grid-area: 2 / 4 / 3 /5;
-  background-color: aquamarine;
+
 }
 .random15 {
   display: grid;
   grid-area: 2 / 6 / 3 /7;
-  background-color: aquamarine;
+ 
 }
 .random16 {
   display: grid;
   grid-area: 2 / 8 / 3 /9;
-  background-color: aquamarine;
+
 }
 .random17 {
   display: grid;
   grid-area: 2 / 10 / 3 /11;
-  background-color: aquamarine;
+
 }
 .random18 {
   display: grid;
   grid-area: 2 / 12 / 3 /13;
-  background-color: aquamarine;
+
 }
-
-.name-random13 {
-  font-weight: bold;
-  grid-area: 3 / 2 / 4 /3;
-  text-align: center;
-}
-
-.name-random14 {
-  font-weight: bold;
-  grid-area: 3 / 4 / 4 /5;
-  text-align: center;
-}
-
-.name-random15 {
-  font-weight: bold;
-  grid-area: 3 / 6 / 4 /7;
-  text-align: center;
-}
-
-.name-random16 {
-  font-weight: bold;
-  grid-area: 3 / 8 / 4 /9;
-  text-align: center;
-}
-
-.name-random17 {
-  font-weight: bold;
-  grid-area: 3 / 10 / 4 /11;
-  text-align: center;
-}
-
-.name-random18 {
-  font-weight: bold;
-  grid-area: 3 / 12 / 4 /13;
-  text-align: center;
-}
-
-.cate-random13 {
-  font-weight: 400;
-  grid-area: 4 / 2 / 5 /3;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random14 {
-  font-weight: 400;
-  grid-area: 4 / 4 / 5 /5;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random15 {
-  font-weight: 400;
-  font-weight: 400;
-  grid-area: 4 / 6 / 5 /7;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random16 {
-  font-weight: 400;
-  grid-area: 4 / 8 / 5 /9;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random17 {
-  font-weight: 400;
-  grid-area: 4 / 10 / 5 /11;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-.cate-random18 {
-  font-weight: 400;
-  grid-area: 4 / 12 / 5 /13;
-  text-align: center;
-  color: rgb(92, 92, 92);
-}
-
-
-
 
 .random19 {
   display: grid;
   grid-area: 2 / 2 / 3 /3;
-  background-color: aquamarine;
+ 
 }
 
 .random20 {
   display: grid;
   grid-area: 2 / 4 / 3 /5;
-  background-color: aquamarine;
+
 }
 .random21 {
   display: grid;
   grid-area: 2 / 6 / 3 /7;
-  background-color: aquamarine;
+
 }
 .random22 {
   display: grid;
   grid-area: 2 / 8 / 3 /9;
-  background-color: aquamarine;
+
 }
 .random23 {
   display: grid;
   grid-area: 2 / 10 / 3 /11;
-  background-color: aquamarine;
+
 }
 .random24 {
   display: grid;
   grid-area: 2 / 12 / 3 /13;
-  background-color: aquamarine;
+}
+
+
+.text-random1 {
+  grid-area: 3/2/5/3;
+  text-align: center;
+}
+
+.text-random2 {
+  grid-area: 3/4/5/5;
+  text-align: center;
+}
+
+.text-random3 {
+  grid-area: 3/6/5/7;
+  text-align: center;
+}
+
+.text-random4 {
+  grid-area: 3/8/5/9;
+  text-align: center;
+}
+
+
+.text-random5 {
+  grid-area: 3/10/5/11;
+  text-align: center;
+}
+
+.text-random6 {
+  grid-area: 3/12/5/13;
+  text-align: center;
+}
+
+
+.text-random7 {
+  grid-area: 3/2/5/3;
+  text-align: center;
+}
+
+.text-random8 {
+  grid-area: 3/4/5/5;
+  text-align: center;
+}
+
+.text-random9 {
+  grid-area: 3/6/5/7;
+  text-align: center;
+}
+
+.text-random10 {
+  grid-area: 3/8/5/9;
+  text-align: center;
+}
+
+
+.text-random11 {
+  grid-area: 3/10/5/11;
+  text-align: center;
+}
+
+.text-random12 {
+  grid-area: 3/12/5/13;
+  text-align: center;
+}
+
+
+.text-random7 {
+  grid-area: 3/2/5/3;
+  text-align: center;
+}
+
+.text-random8 {
+  grid-area: 3/4/5/5;
+  text-align: center;
+}
+
+.text-random9 {
+  grid-area: 3/6/5/7;
+  text-align: center;
+}
+
+.text-random10 {
+  grid-area: 3/8/5/9;
+  text-align: center;
+}
+
+
+.text-random11 {
+  grid-area: 3/10/5/11;
+  text-align: center;
+}
+
+.text-random12 {
+  grid-area: 3/12/5/13;
+  text-align: center;
+}
+
+
+.text-random13 {
+  grid-area: 3/2/5/3;
+  text-align: center;
+}
+
+.text-random14 {
+  grid-area: 3/4/5/5;
+  text-align: center;
+}
+
+.text-random15 {
+  grid-area: 3/6/5/7;
+  text-align: center;
+}
+
+.text-random16 {
+  grid-area: 3/8/5/9;
+  text-align: center;
+}
+
+
+.text-random17 {
+  grid-area: 3/10/5/11;
+  text-align: center;
+}
+
+.text-random18 {
+  grid-area: 3/12/5/13;
+  text-align: center;
+}
+
+
+.text-random19 {
+  grid-area: 3/2/5/3;
+  text-align: center;
+}
+
+.text-random20 {
+  grid-area: 3/4/5/5;
+  text-align: center;
+}
+
+.text-random21 {
+  grid-area: 3/6/5/7;
+  text-align: center;
+}
+
+.text-random22 {
+  grid-area: 3/8/5/9;
+  text-align: center;
+}
+
+
+.text-random23 {
+  grid-area: 3/10/5/11;
+  text-align: center;
+}
+
+.text-random24 {
+  grid-area: 3/12/5/13;
+  text-align: center;
+}
+
+.name-random1 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random2 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random3 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random4 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random5 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random6 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random7 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random8 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random9 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random10 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random11{
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random12 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random13 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random14 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random15 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random16 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random17 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.name-random18 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .name-random19 {
   font-weight: bold;
-  grid-area: 3 / 2 / 4 /3;
   text-align: center;
+  margin-top: 2%;
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .name-random20 {
   font-weight: bold;
-  grid-area: 3 / 4 / 4 /5;
   text-align: center;
+  margin-top: 2%;
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .name-random21 {
   font-weight: bold;
-  grid-area: 3 / 6 / 4 /7;
   text-align: center;
+  margin-top: 2%;
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .name-random22 {
   font-weight: bold;
-  grid-area: 3 / 8 / 4 /9;
   text-align: center;
+  margin-top: 2%;
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .name-random23 {
   font-weight: bold;
-  grid-area: 3 / 10 / 4 /11;
   text-align: center;
+  margin-top: 2%;
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .name-random24 {
   font-weight: bold;
-  grid-area: 3 / 12 / 4 /13;
   text-align: center;
+  margin-top: 2%;
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+
+.cate-random1 {
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random2 {
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random3 {
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random4 {
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random5 {
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random6 {
+  text-align: center;
+  margin-top: 2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random7 {
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random8 {
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random9 {
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random10 {
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random11{
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random12 {
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random13 {
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random14 {
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random15 {
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random16 {
+
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random17 {
+
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
+}
+
+.cate-random18 {
+ 
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
 }
 
 .cate-random19 {
-  font-weight: 400;
-  grid-area: 4 / 2 / 5 /3;
+
   text-align: center;
-  color: rgb(92, 92, 92);
+  margin-top: -2%;
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
 }
 
 .cate-random20 {
-  font-weight: 400;
-  grid-area: 4 / 4 / 5 /5;
+  
   text-align: center;
-  color: rgb(92, 92, 92);
+  margin-top: -2%;
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
 }
 
 .cate-random21 {
-  font-weight: 400;
-  grid-area: 4 / 6 / 5 /7;
-  text-align: center;
-  color: rgb(92, 92, 92);
 
+  text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: rgb(92, 92, 92);
 }
 
 .cate-random22 {
-  font-weight: 400;
-  grid-area: 4 / 8 / 5 /9;
+  
   text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
   color: rgb(92, 92, 92);
-
 }
 
 .cate-random23 {
-  font-weight: 400;
-  grid-area: 4 / 10 / 5 /11;
+  
   text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
   color: rgb(92, 92, 92);
-
 }
 
 .cate-random24 {
-  font-weight: 400;
-  grid-area: 4 / 12 / 5 /13;
   text-align: center;
+  margin-top: -2%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
   color: rgb(92, 92, 92);
-
 }
 
+.img-random1 {
+  display: block;
+}

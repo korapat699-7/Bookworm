@@ -19,7 +19,7 @@
     margin-right: auto;
     margin-top: 20px;
     max-width: 1249px;
-    max-height: 305px;
+    height: 370px;
     grid-template-rows: 39px 180px 31px 31px 42px;
     grid-template-columns: 43px 125px 83px 125px 83px 125px 83px 125px 83px 125px 83px 125px 43px ;
     background-color: rgb(255, 255, 255);
@@ -33,7 +33,7 @@
     margin-right: auto;
     margin-top: 20px;
     max-width: 1249px;
-    max-height: 305px;
+    max-height: 370px;
     grid-template-rows: 39px 180px 31px 31px 42px;
     grid-template-columns: 43px 125px 83px 125px 83px 125px 83px 125px 83px 125px 83px 125px 43px ;
     background-color: rgb(255, 255, 255);
@@ -47,7 +47,21 @@
     margin-right: auto;
     margin-top: 20px;
     max-width: 1249px;
-    max-height: 305px;
+    max-height: 370px;
+    grid-template-rows: 39px 180px 31px 31px 42px;
+    grid-template-columns: 43px 125px 83px 125px 83px 125px 83px 125px 83px 125px 83px 125px 43px ;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.content5 {
+    display:grid;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    max-width: 1249px;
+    max-height: 370px;
     grid-template-rows: 39px 180px 31px 31px 42px;
     grid-template-columns: 43px 125px 83px 125px 83px 125px 83px 125px 83px 125px 83px 125px 43px ;
     background-color: rgb(255, 255, 255);

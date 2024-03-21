@@ -114,7 +114,7 @@ nav .navbar {
 .search-input{
     font-size: 15px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #9f9f9f;
+    color: #000000;
     margin-left: var(--padding);
     outline: none;
     border: none;
@@ -132,3 +132,16 @@ nav .navbar {
     display: flex;
 }
 
+.buy-button {
+    padding: 8px 16px;
+    background-color: #D3CEDF; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.buy-button:hover {
+    background-color: #748DA6;
+}
