@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const loginButton = document.getElementById('login');
     const loginDropdown = document.getElementById('login_dropdown');
     const register = document.getElementById("register");
-
+    
     // Event Listener เพื่อเปิด/ปิด dropdown เมื่อคลิกที่ login button
     loginButton.addEventListener('click', function(event) {
         event.preventDefault(); // ป้องกันการเปลี่ยนหน้าเว็บเมื่อคลิกที่ลิงก์
@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
             loginButton.innerHTML ='Login ▲';
         }
     });
+
 
     // Event Listener เพื่อปิด dropdown เมื่อคลิกที่พื้นหลังที่ไม่ใช่ส่วนของ dropdown หรือ register
     document.addEventListener('click', function(event) {
@@ -54,11 +55,13 @@ const register_header = document.querySelector(".register_header");
 const form_reg = document.querySelector(".form-reg");
 const reg_complete= document.querySelector(".reg-complete");
 const login_after= document.querySelector(".login-after-reg");
+const loginButton = document.getElementById('login');
 
 submitsignup.addEventListener('click', () => {
     register_header.style.display = 'none';
     form_reg.style.display = 'none';
     submitsignup.style.display ='none'
+
 
     setTimeout(() => {
       reg_complete.style.display = 'block';
@@ -67,6 +70,9 @@ submitsignup.addEventListener('click', () => {
     setTimeout(() => {
       login_after.style.display = 'block'
     },1000);
+
+
+
 
 });
 
